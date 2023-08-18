@@ -1,0 +1,19 @@
+Crawler,Request_type,Processing_type,Content_id,Failure,Cost,Request_url
+instant,videos,single,dtOdpy9gqPQ,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,4iGHe0Q2wNA,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,cm3mS8AAV4k,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,jAlP14-Yw2c,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,9nmWbty0sKw,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,get_youtube_comments,single,ZeBmFpNLkUw,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,nb_DBnz-0pM,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,EXGyv5T3NjA,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,dtOdpy9gqPQ,Video not found,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,4iGHe0Q2wNA,Video not found,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,PhXQFAadxws,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,bzbiPAJTDHo,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,cfVFp-uhil4,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,cm3mS8AAV4k,Video not found,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,_mfbOfY_t7o,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,jAlP14-Yw2c,Video not found,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,9nmWbty0sKw,Video not found,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,CgD7r0Bq7Zc,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads

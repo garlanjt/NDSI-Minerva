@@ -1,0 +1,72 @@
+Crawler,Request_type,Processing_type,Content_id,Failure,Cost,Request_url
+instant,videos,single,yYAe1AVftRw,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,BtjBzJsxdHU,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,WLALwNXppwk,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,SFdeDW9m1QM,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,z0g1EA2fcc0,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,apzXGEbZht0,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,1B2ISeeaJe4,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,kdv_pmrb2-g,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,lFYpPbKx14U,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,DuGMUUyLrv4,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,ExeeouB991w,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,Ch9V06HRBP4,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,GSP0XIbal64,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,PaXaIx-Sev8,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,xtntW7P02wo,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,dC-OFYOehdY,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,-confq4b1uc,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,780aoEMdx9E,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,eU4TT1X_oS8,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,7f5IZSuoA54,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,cXOwHpOwvf8,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,_yzU88zhHAA,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,LgQOo3rHiu4,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,IwZAgRTGBHI,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,videos,single,HZYPMqRDGb8,Content is marked Unavailable,0,https://www.googleapis.com/youtube/v3/videos
+instant,get_youtube_comments,single,ryEmkMY0kKE,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,iz9lJBctcB0,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,4XNyE8yjU0Q,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,yYAe1AVftRw,Video not found,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,YJzLC-AAWHw,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,rP-UR0KrUJ0,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,QdX7ZtjOqNs,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,BtjBzJsxdHU,Video not found,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,zsZt7ACpPKU,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,4XGLPTtn4xQ,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,Ua3BSBFMArk,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,OsziNI-xBpI,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,ctgVdj5PJrA,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,0rCdXWb0_Sg,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,0gepTHFF_W0,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,LefJcri2lak,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,LYLRon4ppks,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,sRmlfulXdAg,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,j1mERFFrMYM,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,IlSnY-64xtE,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,4O7lZbP4nrk,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,WLALwNXppwk,Video not found,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,NA0Fphx4UMg,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,SFdeDW9m1QM,Video not found,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,eaN-7fBPTEM,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,z0g1EA2fcc0,Video not found,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,agPR4S8PAYY,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,RDL_PjVpVsY,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,tCXCPpM07Ko,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,jy88ejZrPWw,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,9e4b2EgcSo4,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,-eni4zyImxA,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,apzXGEbZht0,Video not found,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,oUMp_fJOcLs,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,33rfu5fTj6o,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,al9RjK31c0o,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,1B2ISeeaJe4,Video not found,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,r-u6ojIf03Q,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,IcT_IsOcIUA,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,Br6jgKOkBqY,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,HSjgfto4Fe8,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,RFM9STAYI2g,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,srEGZRY1Fo8,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,eU_JUIwf2EU,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,2_jqBPrc6hk,Disabled comments,0,https://www.googleapis.com/youtube/v3/commentThreads
+instant,get_youtube_comments,single,kdv_pmrb2-g,Video not found,0,https://www.googleapis.com/youtube/v3/commentThreads
